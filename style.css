@@ -91,3 +91,11 @@ button:active {
 .zero {
     grid-column: span 2;
 }
+
+footer {
+    position: fixed;
+    bottom: 15px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    text-shadow: 0 0 5px rgba(0, 234, 255, 0.3);
+}

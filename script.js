@@ -20,3 +20,7 @@ function calcular() {
         display.value = 'Erro';
     }
 }
+
+// Atualizar o ano automaticamente no rodapé
+const anoElement = document.getElementById('ano-atual');
+anoElement.textContent = new Date().getFullYear();

@@ -43,4 +43,4 @@ Neste projeto, pude praticar:
 *   Lógica de programação com JavaScript para capturar eventos de clique e processar cálculos.
 
 ---
-Desenvolvido por **[nexuscleo]**
+**Desenvolvido por Cleomar da Silva, &copy;2026 NexusCleo.**
