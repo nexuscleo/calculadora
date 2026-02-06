@@ -7,7 +7,7 @@ Este projeto compõe meu portfólio de desenvolvimento Front-end.
 ## 📸 Preview
 
 <!-- Insira um print/screenshot da sua calculadora aqui -->
-![Preview da Calculadora](https://via.placeholder.com/600x400?text=Screenshot+da+Calculadora)
+![Preview da Calculadora](./img/print-calculadora.png)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -43,4 +43,4 @@ Neste projeto, pude praticar:
 *   Lógica de programação com JavaScript para capturar eventos de clique e processar cálculos.
 
 ---
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **[nexuscleo]**
