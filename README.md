@@ -7,7 +7,7 @@ Este projeto compõe meu portfólio de desenvolvimento Front-end.
 ## 📸 Preview
 
 <!-- Insira um print/screenshot da sua calculadora aqui -->
-![Preview da Calculadora](./img/print-calculadora.png)
+![Preview da Calculadora](./img/exemplo-calculadora.png)
 
 ## 🚀 Tecnologias Utilizadas
 
